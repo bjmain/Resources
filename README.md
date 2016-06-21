@@ -1,7 +1,7 @@
 # Resources
 
 ##Basic python
-Here is a concise python [tutorial](https://developers.google.com/edu/python/?csw=1) from google.
+Here is a concise [**python**](https://developers.google.com/edu/python/?csw=1) tutorial from google.
 ##Plotting
 It's kinda hard to analyze data without plotting. I like [matplotlib](http://mple.m-artwork.eu/tutorial).
 ##Data analysis
