@@ -1,25 +1,10 @@
 # Resources
 
-### Intro to python:
-https://developers.google.com/edu/python/?csw=1
+##Basic python
+Here is a concise python [tutorial](https://developers.google.com/edu/python/?csw=1) from google.
+##Plotting
+It's kinda hard to analyze data without plotting. I like [matplotlib](http://mple.m-artwork.eu/tutorial).
+##Data analysis
+Most data comes in the form of a data frame, like an excel table with rows and columns. Python [pandas](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe) is a great way to analyze this type of data.
 
-A First Level Header
-====================
 
-A Second Level Header
----------------------
-
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
-
-The quick brown fox jumped over the lazy
-dog's back.
-
-### Header 3
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
