@@ -1,6 +1,6 @@
 # Resources
 
-Intro to python:
+## Intro to python:
 https://developers.google.com/edu/python/?csw=1
 
 A First Level Header
