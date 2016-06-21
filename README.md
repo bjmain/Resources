@@ -9,6 +9,6 @@ Most data comes in the form of a data frame, like an excel table with rows and c
 
 ##Documentation
 In science, we want to explore in such a way that people can follow and pick up where we left off. Hey, that is progress!
-Documenting in [**Markdown**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), like with the text you are reading now, is easy and makes reading easier.
+Documenting in [**Markdown**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (>like with the text you are reading now>) is easy and makes reading easier.
 
 
